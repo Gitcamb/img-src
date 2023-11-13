@@ -11,7 +11,7 @@ To begin with, you should join the [Open Digerati Slack Group](https://opendiger
 
 Once you are in, there are plenty of [issues](https://github.com/lifechurch/img-src/issues) available to complete. If it's your first time contributing, look for issues labelled `good first issue` to make a start!
 
-### Where can I create an account?
+### Where
 To create an account, you need to register to the YouVersion staging system. You can register at [staging.bible.com](https://staging.bible.com). You can ask for the username + password in the `#yv-img-source` channel on Slack!
 
 ### How do I get access to the GitHub group to assign tasks?
